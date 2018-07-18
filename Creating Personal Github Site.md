@@ -113,4 +113,5 @@ br {
   font-size:24px;
 }
 ```
-16. Congratulations you've successfully set up your own personal website! Edit the HTML, JavaScript, and CSS files to customize your website.
+16. Congratulations you've successfully set up your own personal website! Open up a new tab and go to *<span><font color = "orange">username.github.io</font></span>* to check out your website
+17. Edit the HTML, JavaScript, and CSS files to customize your website
