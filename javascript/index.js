@@ -1,1 +1,1 @@
-document.getElementById('utc').innerHTML = new Date().toTimeString();
+document.getElementById('utc').innerHTML = "Last Updated: " + new Date().toDateString();
