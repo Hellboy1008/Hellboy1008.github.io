@@ -34,24 +34,26 @@
     <h1 id="about">About Me</h1>
     <div id="details">
       Name: John Doe <br/>
-      Age: 25 <br/>
-      Occupation: Freelancer <br/>
-      Education Level: Bachelor <br/>
-      Country: United States <br/>
-      Favourite Food: Steak <br/>
+      Age: 25<br/>
+      Occupation: Freelancer<br/>
+      Education Level: Bachelor<br/>
+      Country: United States<br/>
+      Favourite Food: Steak<br/>
       Hobbies:
       <ul>
         <li>Reading</li>
         <li>Football</li>
         <li>Photography</li>
-      </ul> </br> </div>
-      <div id="contact">
-        Contact Information:</div>
-        <div id="details"> <font color = "white">
-        Address: 111 Grove Street, South Bend, IN 11111 </br>
-        Phone Number: +1 (111) 111-1111 </br>
-        Email: johndoe@johndoe.com
-      </font></div>
+      </ul> </br> 
+    </div>
+    <div id="contact">
+      Contact Information:
+    </div>
+    <div id="details"> <font color = "white">
+      Address: 111 Grove Street, South Bend, IN 11111 </br>
+      Phone Number: +1 (111) 111-1111 </br>
+      Email: johndoe@johndoe.com
+    </font></div>
   </div>
 </html>
 ```
@@ -72,9 +74,9 @@ document.getElementById('utc').innerHTML = "Last Updated: " + new Date().toDateS
 ```css
 body {
   text-align: center;
-  background: linear-gradient(to right,#2980B9, #6DD5FA);
+  background: linear-gradient(to right,#2980B9,#6DD5FA);
 }
-#self-portrait {
+#self-portrait{
   position: absolute;
   right: 0px;
   width: 600px;
@@ -90,27 +92,27 @@ body {
   text-align: left;
   padding-left: 120px;
 }
-#utc {
+#utc{
   font-size: 20px;
 }
 #about{
   color: darkorange;
   font-weight: 900;
   padding-top: 10px;
-  font-size:30px;
+  font-size: 30px;
 }
 #details{
   padding-top: 20px;
-  font-size:18px;
+  font-size: 18px;
   font-weight: 500;
 }
-br {
+br{
   line-height: 150%;
 }
 #contact{
   color: yellow;
   padding-top: 0px;
-  font-size:24px;
+  font-size: 24px;
 }
 ```
 16. Save your changes and write a commit message for each file
