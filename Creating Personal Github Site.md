@@ -1,6 +1,6 @@
 # How to create a personal Github Site
 
-1. Go to github.com and create a Github account
+1. Go to <github.com> and create a Github account
 
 2. Login to your new account and click "New repository"
 
