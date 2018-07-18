@@ -16,7 +16,7 @@
 
 8. Create a new file and name it <font color = "orange">index.html</font>
 
-9. Add the following text to your "index.html" file
+9. Add the following text to your "index.html" file and replace the text with your personal information
 ```html
 <!DOCTYPE html>
 <html>
@@ -115,4 +115,4 @@ br {
 ```
 16. Save your changes and write a commit message for each file
 17. Congratulations you've successfully set up your own personal website! Open up a new tab and go to *<span><font color = "orange">username.github.io</font></span>* to check out your website
-18. Edit the HTML, JavaScript, and CSS files to customize your website
+18. Edit the HTML, JavaScript, and CSS files to further customize your website 
