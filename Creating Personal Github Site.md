@@ -115,6 +115,6 @@ br{
   font-size: 24px;
 }
 ```
-16. Save your changes and write a commit message for each file
+16. Go to File -> Save and save each file individually with a commit message
 17. Congratulations you've successfully set up your own personal website! Open up a new tab and go to *<span><font color = "orange">username.github.io</font></span>* to check out your website
 18. Edit the HTML, JavaScript, and CSS files to further customize your website 
